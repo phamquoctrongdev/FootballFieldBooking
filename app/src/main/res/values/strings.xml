@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FootballBooking</string>
+    <string name="home">Trang chủ</string>
+    <string name="history">Lịch sử</string>
+    <string name="notification">Thông báo</string>
+    <string name="profile">Profile</string>
+    <string name="hello">Xin chào, %1$s !</string>
+    <string name="full_date">Thứ %1$d, ngày %2$d tháng %3$d năm %4$d</string>
+    <string name="how_are_you">Hôm nay bạn thế nào?</string>
+    <string name="worked_pitch">Sân đã đấu</string>
+    <string name="working_pitch">Sân đang thi đấu</string>
+    <string name="empty_pitch">Sân đang trống lịch</string>
+    <string name="revenue_of_the_day">Doanh thu trong ngày</string>
+    <string name="revenue_by_vnd">Doanh thu (triệu VNĐ)</string>
+    <string name="by_week">Theo tuần</string>
+    <string name="by_month">Theo tháng</string>
+    <string name="by_year">Theo năm</string>
+</resources>

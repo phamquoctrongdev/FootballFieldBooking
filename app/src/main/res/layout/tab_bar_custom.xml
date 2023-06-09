@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_by_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:text="@string/by_week" />
+
+    <Space
+        android:layout_width="24dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_by_month"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:text="@string/by_month" />
+
+    <Space
+        android:layout_width="24dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_by_year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:text="@string/by_year" />
+
+</LinearLayout>
